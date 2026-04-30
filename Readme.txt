@@ -1,2 +1,1 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/anyar-free-multipurpose-one-page-bootstrap-theme/
+An educational website for learning operating system concepts, featuring an integrated web-based terminal for hands-on practice. Focused on interactive learning, intuitive UI, and clear explanations to help users bridge theory and real-world OS commands.
